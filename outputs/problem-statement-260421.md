@@ -197,6 +197,12 @@ Deep-dives 1 and 2 will take the MCP escape hatch and the hooks/settings
 layer respectively, and evaluate how far each can carry the pattern
 today — and where upstream change is genuinely required.
 
+See also `notes/260421-no-logical-cwd-and-meta-defense.md` for two
+follow-on points: (a) the "no logical cwd for general machine work"
+sub-problem, to be added to the deep-dive queue as a session-anchoring
+question, and (b) the meta-defense of the use case against the
+"wrong tool for the job" critique.
+
 [^auto-mode]: `sources/260421-cc-auto-mode-engineering-blog.md`
 [^modes]: `sources/260421-cc-permission-modes-docs.md`
 [^settings]: `sources/260421-cc-settings-docs.md`
